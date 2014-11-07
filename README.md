@@ -1,4 +1,2 @@
-datasciencecoursera
-===================
-
-Repository for Coursera 
+## Repository for Coursera
+*This repo is part contains markdown files
