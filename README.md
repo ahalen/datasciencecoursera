@@ -1,2 +1,2 @@
 ## Repository for Coursera
-*This repo is part contains markdown files
+- This repo is part contains markdown files
